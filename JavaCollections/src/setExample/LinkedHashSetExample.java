@@ -10,7 +10,7 @@ public class LinkedHashSetExample {
 	 * Insertion order is preserved
 	 * Duplicates not allowed
 	 */
-
+//fork eg
 	public void linkedHashSetExample(){
 		LinkedHashSet linkedHashSet = new LinkedHashSet();
 		linkedHashSet.add(1);
